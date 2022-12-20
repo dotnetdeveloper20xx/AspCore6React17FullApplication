@@ -1,4 +1,4 @@
-# AspCore6React17FullApplication
+# Develop an application with its backend in Asp.net Core, SQL database, front-end React 17.
 Use React, Hooks, ASP.NET Core, Entity Framework Core, Bootstrap, Leaflet and JWT to create a complete web application
 Develop an application with its backend in Asp.net Core, SQL database, front-end React 17.
 Some of the tech demoed are:
